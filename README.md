@@ -1,4 +1,4 @@
-# ONE Record Hackathon Submition
+# ONE Record Hackathon Submission
 
 ## Follow The Freight
 
